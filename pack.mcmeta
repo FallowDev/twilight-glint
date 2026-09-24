@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "min_format": [84, 0],
+    "max_format": [84, 0],
+    "description": [
+      {
+        "text": "Twilight Glint\n",
+        "color": "gold"
+      },
+      {
+        "text": "By Fallow Deer\n",
+        "color": "green",
+        "italic": false
+      },
+      {
+        "text": "fallowdeer.eu",
+        "color": "aqua",
+        "underlined": true,
+        "italic": false
+      }
+    ]
+  }
+}
